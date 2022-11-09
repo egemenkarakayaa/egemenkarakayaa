@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Egemen.
+- 🎓 I'm a 4rd year computer engineering student.
+- 👨‍💻 I’m currently learning Swift and iOS Development.
+- 📫 How to reach me -> egemenkarakayaa@gmail.com
